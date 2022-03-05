@@ -1,0 +1,11 @@
+# Code Composer Studio Files
+/.jxbrowser-data/
+/.metadata/
+/dvt/
+/RemoteSystemsTempFiles/
+
+*/targetConfigs/
+*/Debug/
+*/Release/
+
+*/.launches/
